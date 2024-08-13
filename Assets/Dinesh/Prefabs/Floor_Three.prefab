@@ -186,7 +186,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6949f5f5f4e497f49acf40150f15868e,
         type: 3}
       propertyPath: m_Name
-      value: Prototype 1
+      value: Floor_Three
       objectReference: {fileID: 0}
     - target: {fileID: 3943515419339389481, guid: 6949f5f5f4e497f49acf40150f15868e,
         type: 3}
